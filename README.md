@@ -3,7 +3,9 @@
 
 Notes
 ------
-The full length code is available in the accompanying notebook and should be viewed on [nbviewer](https://nbviewer.jupyter.org/github/stevhliu/airbnbListingDescriptions/blob/master/airbnbListingDescriptions.ipynb). A slide deck is also included for stakeholders seeking to quickly grasp the data driven insights derived from this project. Finally, an explanatory article regarding this project can be found here.
+The full length code is available in the accompanying notebook and should be viewed on [nbviewer](https://nbviewer.jupyter.org/github/stevhliu/airbnbListingDescriptions/blob/master/airbnbListingDescriptions.ipynb). A slide deck is also included for stakeholders seeking to quickly grasp the data driven insights derived from this project. Finally, an explanatory article regarding this project can be found here. 
+
+Check out the interactive companion site [here](https://medium.com/r/?url=https%3A%2F%2Ftextexplorer.herokuapp.com%2F) (give it a few minutes to load!).
 
 Abstract
 ------
